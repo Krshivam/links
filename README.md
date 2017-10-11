@@ -1,5 +1,5 @@
 # links
-this programm will extract all links in the given url
+this programe will extract all links in the given url
 How to Run :
 open terminal
 type python filename and hit enter.
